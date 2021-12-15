@@ -1,10 +1,10 @@
 ### About me 👋
 
-Hello le monde 🌍 je m'appelle Antony, j'habite en France 🇫🇷 et plus précisément à Paris 🗼. 
+Hello le monde !🌍 Je m'appelle Antony, j'habite en France et plus précisément à Paris 🗼. 
 
-je suis en reconversion professionnel Développeur web et web mobile pour en faire mon métier. 💪🚀
+Je suis en reconversion professionnelle "Développeur Web et web mobile" pour en faire mon métier. 💪🚀
 
-Autodidacte et passionné je suis étudiant à WebForce3 Paris 4 et je suis à la recherche d'une alternance pour une durée d'un an. 
+Autodidacte, passionné, je suis étudiant à WebForce3 Paris 4 et à la recherche d'une alternance pour une durée d'un an. 
 
 
 Compétences 🛠
